@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @paulHnee Junior Engineer Systemintegration
+- 👋 Hi, I’m @paulHnee Junior Network Engineer
 - 👀 I’m interested in Programming, Automatization, Networking
-- 🌱 I’m currently learning powershell, C#
+- 🌱 I’m currently learning GoLang, 
 - 📫 How to reach me via Email - Paul.Buchwald@hnee.de
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a coach for a junior volleyball Team
