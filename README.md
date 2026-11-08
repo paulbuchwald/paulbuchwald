@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paulHnee Junior Network Engineer
+- 👋 Hi, I’m @paulbuchwald Junior Network Engineer
 - 👀 I’m interested in Programming, Automatization, Networking
 - 🌱 I’m currently learning GoLang, 
 - 📫 How to reach me via Email - Paul.Buchwald@hnee.de
